@@ -1,0 +1,37 @@
+<svg height="542" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="542" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 14:27:17 +0000    56162 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 14:27:17 +0000     1330 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 14:27:17 +0000      499 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 14:27:17 +0000     1048 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 14:27:17 +0000     4861 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 14:27:17 +0000      625 bytes  RELEASING.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 14:27:17 +0000     1106 bytes  bin/image-diff</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 14:27:17 +0000      232 bytes  docs/example.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 14:27:17 +0000    19110 bytes  docs/example.png</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 14:27:17 +0000      464 bytes  docs/images/hello-diff.png</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 14:27:17 +0000     1790 bytes  docs/images/hello-world.png</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 14:27:17 +0000      877 bytes  docs/images/hello.png</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 14:27:17 +0000     8620 bytes  lib/image-diff.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 14:27:17 +0000     3030 bytes  package.json</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 14:27:17 +0000      120 bytes  release.sh</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 14:27:17 +0000      273 bytes  test/expected-files/different-size-shadow.png</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 14:27:17 +0000      317 bytes  test/expected-files/different-size.png</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 14:27:17 +0000      281 bytes  test/expected-files/different.png</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 14:27:17 +0000      357 bytes  test/expected-files/horizontal-vertical.png</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 14:27:17 +0000      282 bytes  test/expected-files/same.png</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 14:27:17 +0000     1799 bytes  test/extract-total-difference_test.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 14:27:17 +0000     1379 bytes  test/image-diff-get-full-result_test.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-22 14:27:17 +0000     1276 bytes  test/image-diff-get-raw-result_test.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-22 14:27:17 +0000     5423 bytes  test/image-diff_test.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-22 14:27:17 +0000       39 bytes  test/install.sh</tspan>
+<tspan x="10" y="426"> 25.  2017-04-22 14:27:17 +0000       89 bytes  test/test-files/checkerboard-excess.png</tspan>
+<tspan x="10" y="442"> 26.  2017-04-22 14:27:17 +0000      107 bytes  test/test-files/checkerboard-transparent.png</tspan>
+<tspan x="10" y="458"> 27.  2017-04-22 14:27:17 +0000       83 bytes  test/test-files/checkerboard.png</tspan>
+<tspan x="10" y="474"> 28.  2017-04-22 14:27:17 +0000       69 bytes  test/test-files/horizontal.png</tspan>
+<tspan x="10" y="490"> 29.  2017-04-22 14:27:17 +0000       71 bytes  test/test-files/vertical.png</tspan>
+<tspan x="10" y="506"> 30.  2017-04-22 14:27:17 +0000       74 bytes  test/test-files/white.png</tspan>
+<tspan x="10" y="522"> 31.  2017-04-22 14:27:17 +0000      531 bytes  test/utils/image.js</tspan>
+</text>
+</svg>
